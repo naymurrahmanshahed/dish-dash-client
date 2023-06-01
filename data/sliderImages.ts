@@ -1,7 +1,7 @@
 export const data = [
   {
     id: 1,
-    src: "https://images.pexels.com/photos/1199960/pexels-photo-1199960.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    src: "https://res.cloudinary.com/divxqgoph/image/upload/v1685507400/dish-dash/pexels-photo-1199960_orqahv.webp",
     alt: "Selective Focus Photo of Cheeseburger",
     headline: "Delicious Cheeseburger",
     paragraph:
@@ -10,7 +10,7 @@ export const data = [
   },
   {
     id: 2,
-    src: "https://images.pexels.com/photos/4773769/pexels-photo-4773769.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    src: "https://res.cloudinary.com/divxqgoph/image/upload/v1685507400/dish-dash/pexels-photo-4773769_zvwojq.webp",
     alt: "Person Holding a Pizza",
     headline: "Authentic Italian Pizza",
     paragraph:
@@ -19,7 +19,7 @@ export const data = [
   },
   {
     id: 3,
-    src: "https://images.pexels.com/photos/803963/pexels-photo-803963.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    src: "https://res.cloudinary.com/divxqgoph/image/upload/v1685507402/dish-dash/pexels-photo-803963_qppjud.webp",
     alt: "Cooked Pasta on Brown Wooden Bowl",
     headline: "Savory Pasta Delights",
     paragraph:
